@@ -1,0 +1,28 @@
+{
+  "name": "watch-nw",
+  "version": "0.0.1",
+  "description": "night watch dog",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenPt/watch-nw.git"
+  },
+  "keywords": [
+    "dog",
+    "watch",
+    "night"
+  ],
+  "author": "eczn & chenpt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChenPt/watch-nw/issues"
+  },
+  "homepage": "https://github.com/ChenPt/watch-nw#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
